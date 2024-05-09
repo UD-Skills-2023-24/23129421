@@ -1,2 +1,2 @@
 For all SOM Training models and their activated examples, please check '1.2_FullNotebook.ipynb'
-For TF-IDF and Doc2Vec comparison models. please check '1.2.1_Text_SOM(Doc2Vec_TF-IDF)' in subfolder 'SaparatedNotebook'
+For TF-IDF and Doc2Vec comparison models, and all of the separated notebooks for each som model, please check '1.2.1_Text_SOM(Doc2Vec_TF-IDF).ipynb' in subfolder 'Notebooks_Saparated'
